@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.project_hw2.MainActivity">
+
+    <item
+        android:id="@+id/itemAddlist"
+        android:title="추후 업데이트 노래 요청">
+    </item>
+    <item android:title="공유하기">
+        <menu>
+            <item
+                android:id="@+id/itemShare1"
+                android:title="Instagram"/>
+           <item
+                 android:id="@+id/itemShare2"
+                android:title="facebook"/>
+        </menu>
+    </item>
+</menu>
