@@ -1,5 +1,8 @@
-# PlaylistApp
-안드로이드 / 자바 \n
+# PlaylistAppo
+Android/Java \n
+
+This App recommends Top30 music for your playlist. \n
+You can choose music and know that's ranking.\n
 재생 목록 추천 애플리케이션
 .
 뷰 플리퍼를 통해 이전 화면 / 다음 화면 버튼을리스트 뷰 배경 색상 변경이 가능하다. 
